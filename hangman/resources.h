@@ -1,0 +1,14 @@
+enum { FONT_SIZE = 8, };
+extern const unsigned char g_font[128][FONT_SIZE];
+extern const char *g_words[65197];
+typedef struct GenericImage GenericImage;
+extern GenericImage life_1;
+extern GenericImage life_2;
+extern GenericImage life_3;
+extern GenericImage life_4;
+extern GenericImage life_5;
+extern GenericImage life_6;
+extern GenericImage life_7;
+extern GenericImage life_8;
+extern GenericImage life_9;
+extern GenericImage life_10;
